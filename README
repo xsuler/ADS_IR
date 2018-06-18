@@ -1,2 +1,2 @@
 Orb.hs: 从“result0"文件读取输入图像集和查询图像，输出10个最近结果，使用Hackage中对openCV库的binding编写
-AutoEncoder.hs: 输入训练次数，程序使用选定图片对网络进行训练，并保存训练结束后的生成图片,使用Hackage中的hip图像处理苦，Grenade神经网络库进行编写
+AutoEncoder.hs: 输入训练次数，程序使用选定图片对网络进行训练，并保存训练结束后的生成图片,使用Hackage中的hip图像处理库，Grenade神经网络库进行编写
